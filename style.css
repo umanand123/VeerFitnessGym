@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+::-webkit-scrollbar   /* changing the scroll bar look */
+{
+    width: 6px;
+    background:#030303  
+}
+::-webkit-scrollbar-thumb  
+{
+background : rgba(87, 87, 87, 0.56); 
+ /* background : linear-gradient(rgba(0, 225, 255, 0.384),transparent);  */
+border-radius: 8px;
+}
+body
+{
+    background-color: black;
+}
+
+a
+{
+    text-decoration:none
+}
+
+.bgi
+{
+position: absolute;
+width: 100%;
+height: 823px;
+left: 0px;
+top: 0px;
+mix-blend-mode: lighten;
+opacity: 0.35;
+}
+
+.headertext
+{
+position: absolute;
+width: 804px;
+height: 192px;
+left: 70px;
+top: 200px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 96px;
+
+color: #FFE600;
+}
+
+.ab
+{
+
+position: absolute;
+width: 161px;
+height: 64.3px;
+left: 46px;
+top: 23px;
+
+}
+
+.NB1
+{
+position: absolute;
+width: 100px;
+height: 17px;
+left: 910px;
+top: 51px;
+font-family: 'Mate';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+.NB2
+{
+    position: absolute;
+width: 100px;
+height: 17px;
+left: 1020px;
+top: 51px;
+font-family: 'Mate';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}.NB3
+{
+    position: absolute;
+width: 100px;
+height: 17px;
+left: 1150px;
+top: 51px;
+font-family: 'Mate';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+.NB4
+{
+    position: absolute;
+width: 80px;
+height: 17px;
+left: 1250px;
+top: 51px;
+font-family: 'Mate';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+

@@ -1,0 +1,36 @@
+body
+{
+    background-color: black;
+}
+
+.secondbg
+{
+position: absolute;
+width: 1517px;
+height: 843px;
+left: 22px;
+top: 1266px;
+
+background: url(image.png);
+mix-blend-mode: lighten;
+opacity: 0.35;
+}
+
+.herotext
+{
+position: absolute;
+width: 924px;
+height: 655px;
+left: 52px;
+top: 207px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 150px;
+line-height: 180px;
+text-align: right;
+
+color: #FFE600;
+
+}
